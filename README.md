@@ -1,1 +1,1 @@
-# Medical-Chatbot
+This project is a Medical Chatbot designed to provide instant and reliable responses to healthcare-related queries. Built using Python, Flask, and machine learning techniques, the chatbot leverages a dataset of medical FAQs for intent classification and response generation. It features a user-friendly interface and robust backend for efficient query handling. Future enhancements include voice input integration and advanced NLP models.
